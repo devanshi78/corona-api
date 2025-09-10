@@ -6,6 +6,7 @@ A simple web application to display COVID-19 data using APIs. This project uses 
 
 ## Project Structure
 
+```text
 CORONA-API/
 ├── css/
 │ └── bootstrap.min.css
@@ -16,6 +17,7 @@ CORONA-API/
 │ ├── bootstrap.bundle.min.js
 │ └── script.js
 └── index.html
+```
 
 yaml
 Copy code
